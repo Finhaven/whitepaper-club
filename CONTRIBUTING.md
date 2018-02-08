@@ -11,5 +11,4 @@ Welcome to the Whitepaper Club!
 Once the PR is approved by the reviewer(s) and all feedback is addressed, the PR author merges to `master`.
 
 ## Code of Conduct
-This project adheres to the [Open Code of Conduct][code-of-conduct]. By participating, you are expected to honor this code.
-[code-of-conduct]: http://todogroup.org/opencodeofconduct/#finhaven-whitepaper-club/brooklyn@finhaven.com
+This project adheres to the [Open Code of Conduct](http://todogroup.org/opencodeofconduct/#finhaven-whitepaper-club/). By participating, you are expected to honor this code.
