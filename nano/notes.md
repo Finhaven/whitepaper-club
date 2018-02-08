@@ -177,6 +177,5 @@ Similar for `receive` and `change` transactions.
 ```
 
 ### Bootstrap Poisoning
-* Using a private key of a dead account with 0 balance
 * Then a new user bootstrapping from an old copy is suseptible to fake history
 * Only new nodes suseptible
