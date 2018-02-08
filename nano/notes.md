@@ -1,7 +1,8 @@
 # Nano (previously RaiBlocks) Whitepaper Notes
 
 ## TL;DR
-* Proof of Stake
+* Mostly proof of Stake (some PoW for rate limiting)
+* Zero fees
 * DAG, or "block-lattice"
 * Lightweight (can run on low power hardware, no power competition)
 * Each account is fully asynchonous
