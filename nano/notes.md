@@ -168,9 +168,9 @@ Similar for `receive` and `change` transactions.
 * Require a certain number of voting users to be online (no huge concentration of power via representatives)
 
 ```
-+---------|----------|----------|--------|-------+
-| Offline | Unsynced | Attacker | Active | Stake |
-+---------|----------|----------|--------|-------+
++---------+----------+----------+-----------------------+-------+
+| Offline | Unsynced | Attacker |         Active        | Stake |
++---------+----------+----------+-----------------------+-------+
                ^
                |
      Being attacked, messed up history
