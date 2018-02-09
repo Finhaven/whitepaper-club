@@ -2,7 +2,7 @@
 
 Welcome to the Whitepaper Club!
 
-* Suggest papers in the [Issues](https://github.com/FinHaven/whitepaper-club/issues/new).
+* Suggest papers in the [Issues](https://github.com/Finhaven/whitepaper-club/issues/new).
 * [How to write the perfect pull request](https://github.com/blog/1943-how-to-write-the-perfect-pull-request)
 * Follow the [Campfire Rule](http://programmer.97things.oreilly.com/wiki/index.php/The_Boy_Scout_Rule) with all changes
 
