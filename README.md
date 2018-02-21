@@ -2,12 +2,14 @@
 
 ## Repo for the Finhaven whitepaper reading sessions
 
-Feel free to include PDFs, notes, and other materials. Suggest papers in the [Issues](https://github.com/Finhaven/whitepaper-club/issues/new).
+Feel free to include PDFs, notes, and other materials.
+Suggest papers in the [Issues](https://github.com/Finhaven/whitepaper-club/issues/new).
 
 ## Purpose
 
 The Whitepaper Club exists to share what we learn about various blockchain technologies,
-in a focused manner.
+in a focused manner. The hope is that this will spread knowledge, build community,
+and provide incentive to keep reading interesting material.
 
 ## Club Format
 
