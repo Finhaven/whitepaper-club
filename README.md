@@ -50,7 +50,7 @@ Only after the above, there is a broad discussion of:
 |  2018-02-15 | [Nano](https://github.com/Finhaven/whitepaper-club/issues/1)       | [Brooklyn Zelenka](https://github.com/expede)  |
 |  2018-02-22 | [0x Project](https://github.com/Finhaven/whitepaper-club/issues/2) | [Gleb Naumenko](https://github.com/naumenkogs) |
 |  2018-03-01 | Cancelled |  |
-|  2018-03-08 | [Decred Atomic Swaps] (https://github.com/Finhaven/whitepaper-club/issues/28) | [Tom Carchrae] (https://github.com/carchrae) |
+|  2018-03-08 | [Decred Atomic Swaps](https://github.com/Finhaven/whitepaper-club/issues/28) | [Tom Carchrae](https://github.com/carchrae) |
 |  2018-03-15 |  |  |
 |  2018-03-22 |  |  |
 |  2018-03-29 |  |  |
