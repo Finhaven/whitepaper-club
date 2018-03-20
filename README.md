@@ -52,7 +52,7 @@ Only after the above, there is a broad discussion of:
 |  2018-03-01 | Cancelled |  |
 |  2018-03-08 | [Decred Atomic Swaps](https://github.com/Finhaven/whitepaper-club/issues/28) | [Tom Carchrae](https://github.com/carchrae) |
 |  2018-03-15 | [Dependently Typed Smart Contracts](https://github.com/Finhaven/whitepaper-club/issues/8) | [Brooklyn Zelenka](https://github.com/expede) |
-|  2018-03-22 |  |  |
+|  2018-03-22 | [Dash governance](https://github.com/Finhaven/whitepaper-club/issues/25) | [Gleb Naumenko](https://github.com/naumenkogs) |
 |  2018-03-29 |  |  |
 |  2018-04-05 |  |  |
 
